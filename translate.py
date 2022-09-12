@@ -1,17 +1,18 @@
 import csv
+from logging import error
 import pandas as pd
-import os
+import os.path
+from os import path
 
-def excel_to_csv(path):
-    wb = pd.ExcelFile(path)
+#TODO
+# file picker instead of path
+# radio buttons for -spaces -owner
+# google integration
 
-    try:
-        spaces_sheet = pd.read_excel(wb, 'spaces')
-        owner_sheet = pd.read_excel(wb, 'owner')
-    except:
-        print("The Excel sheet is not in the right format, talk to production team")
-        
-
+def excel_to_csv(wb):
+    spaces_sheet = pd.read_excel(wb, 'spaces')
+    owner_sheet = pd.read_excel(wb, 'owner')
+      
     spaces_sheet.to_csv('owner_trans.csv', index=False)
     owner_sheet.to_csv('spaces_trans.csv', index=False)
 
@@ -58,9 +59,27 @@ def map_to_file(filename, translations):
         with open(output,'w') as output_file:
             output_file.writelines(lines)
       
+def path_validation(src):
+    if not path.exists(src):
+        raise error()
+
 def main():
     path = input("please insert the Excel name: ")
-    excel_to_csv(path)
+    
+    # Validate file exists and .xlsx
+    try:
+        path_validation(path)
+        wb = pd.ExcelFile(path)
+    except:
+        print("path is invalid. Format exepted is .xlsx only")
+        return
+
+    # Validate sheets name are correct
+    try:
+        excel_to_csv(wb)
+    except:
+        print("The Excel sheet is not in the right format, talk to production team")
+        return
 
     spaces_map = csv_to_map('spaces_trans.csv')
     owner_map = csv_to_map('owner_trans.csv')
@@ -71,6 +90,9 @@ def main():
 
     os.remove('spaces_trans.csv')
     os.remove('owner_trans.csv')
+    # upload to google console
+    
+
 
 if __name__ == '__main__':
     main()
