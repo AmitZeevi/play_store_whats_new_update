@@ -1,0 +1,78 @@
+<en-US>
+Enter or paste your release notes for en-US here
+</en-US>
+<ar>
+Enter or paste your release notes for ar here
+</ar>
+<cs-CZ>
+Enter or paste your release notes for cs-CZ here
+</cs-CZ>
+<da-DK>
+Enter or paste your release notes for da-DK here
+</da-DK>
+<de-DE>
+Enter or paste your release notes for de-DE here
+</de-DE>
+<el-GR>
+Enter or paste your release notes for el-GR here
+</el-GR>
+<en-AU>
+Enter or paste your release notes for en-AU here
+</en-AU>
+<en-CA>
+Enter or paste your release notes for en-CA here
+</en-CA>
+<en-GB>
+Enter or paste your release notes for en-GB here
+</en-GB>
+<es-419>
+Enter or paste your release notes for es-419 here
+</es-419>
+<es-ES>
+Enter or paste your release notes for es-ES here
+</es-ES>
+<fr-FR>
+Enter or paste your release notes for fr-FR here
+</fr-FR>
+<hi-IN>
+Enter or paste your release notes for hi-IN here
+</hi-IN>
+<id>
+Enter or paste your release notes for id here
+</id>
+<it-IT>
+Enter or paste your release notes for it-IT here
+</it-IT>
+<ja-JP>
+Enter or paste your release notes for ja-JP here
+</ja-JP>
+<ko-KR>
+Enter or paste your release notes for ko-KR here
+</ko-KR>
+<nl-NL>
+Enter or paste your release notes for nl-NL here
+</nl-NL>
+<no-NO>
+Enter or paste your release notes for no-NO here
+</no-NO>
+<pl-PL>
+Enter or paste your release notes for pl-PL here
+</pl-PL>
+<pt-BR>
+Enter or paste your release notes for pt-BR here
+</pt-BR>
+<ro>
+Enter or paste your release notes for ro here
+</ro>
+<ru-RU>
+Enter or paste your release notes for ru-RU here
+</ru-RU>
+<sv-SE>
+Enter or paste your release notes for sv-SE here
+</sv-SE>
+<tr-TR>
+Enter or paste your release notes for tr-TR here
+</tr-TR>
+<vi>
+Enter or paste your release notes for vi here
+</vi>
