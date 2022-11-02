@@ -1,0 +1,130 @@
+<en-US>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-US>
+<ar>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</ar>
+<cs-CZ>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</cs-CZ>
+<da-DK>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</da-DK>
+<de-DE>
+Das gibt’s Neues bei der Owner App:
+Neues Erscheinungsbild im Abschnittskatalog, wo du anpassbare Elemente für deine Mitglieder-App auswählen kannst
+Verbesserte Leistung mit schnelleren Ladezeiten und Fehlerbehebungen, die dir ein besseres und reibungsloseres Erlebnis bieten
+</de-DE>
+<el-GR>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</el-GR>
+<en-AU>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-AU>
+<en-CA>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-CA>
+<en-GB>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-GB>
+<es-419>
+Estas son las novedades de la Owner app:
+Aspecto actualizado en el catálogo en el que podrás elegir elementos adaptables para tu app de miembros
+Rendimiento mejorado que incluye la reducción del tiempo de carga de la pantalla y la corrección de errores para ofrecerte una experiencia mejorada y más fluida
+</es-419>
+<es-ES>
+Estas son las novedades de la Owner app:
+Aspecto actualizado en el catálogo en el que podrás elegir elementos adaptables para tu app de miembros
+Rendimiento mejorado que incluye la reducción del tiempo de carga de la pantalla y la corrección de errores para ofrecerte una experiencia mejorada y más fluida
+</es-ES>
+<fr-FR>
+Voici les nouveautés de l'appli Wix Owner :
+Design mis à jour dans le catalogue qui vous permet de choisir des éléments personnalisables pour les applis membres. 
+Des performances améliorées qui incluent un temps de chargement d'écran réduit et des corrections de bugs pour vous offrir une meilleure expérience encore plus fluide.
+</fr-FR>
+<hi-IN>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</hi-IN>
+<id>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</id>
+<it-IT>
+Ecco le novità dell’app Wix Owner:
+Look aggiornato per il catalogo, dove puoi scegliere elementi su misura per la tua app per i membri
+Prestazioni migliorate con tempi di caricamento delle schermate ridotti e correzioni di problemi per un’esperienza migliore e più fluida
+</it-IT>
+<ja-JP>
+Wix Owner アプリに新機能が追加されました：
+・Wix メンバーズアプリ用のカスタムパーツを選択し、カタログの外観を更新できるようになりました。
+・画面の読み込み時間の短縮やバグ修正など、アプリのパフォーマンスを改善。さらに快適でスムーズな操作をお楽しみいただけるようになりました。
+</ja-JP>
+<ko-KR>
+Wix Owner 앱의 새로운 기능은 다음과 같습니다:
+회원 앱에 대해 사용자 정의 가능한 요소를 선택할 수 있는 카탈로그의 업데이트된 모습 및 분위기 
+더 매끄러운 경험을 제공하기 위해 단축된 화면 로딩 시간 및 버그 수정을 포함한 향상된 성능
+</ko-KR>
+<nl-NL>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</nl-NL>
+<no-NO>
+Dette er nytt i Owner-appen:
+Oppdatert utseende og stil i katalogen hvor man kan velge egendefinerte elementer for medlemmers app.
+Forbedret ytelse som inkluderer redusert skjermlastingstid og feilrettinger for å gi deg en bedre og enklere opplevelse.
+</no-NO>
+<pl-PL>
+Nowości w aplikacji Wix Owner:
+Zaktualizowany wygląd katalogu, który umożliwia wybór konfigurowalnych elementów dla aplikacji użytkownika. 
+Poprawiona wydajność, która obejmuje skrócony czas ładowania ekranu i poprawki błędów, aby zapewnić lepsze i płynniejsze doświadczenie.
+</pl-PL>
+<pt-BR>
+Aqui estão as novidades do app Wix Owner:
+Visual atualizado do catálogo, onde você pode escolher itens sob medida para seu aplicativo de membros
+Desempenho aprimorado com tempo de carregamento de tela reduzidos e correções de bugs para uma experiência otimizada
+</pt-BR>
+<ro>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</ro>
+<ru-RU>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</ru-RU>
+<sv-SE>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</sv-SE>
+<tr-TR>
+İşte Owner uygulamasındaki yenilikler:
+Üyelerinizin uygulaması için özelleştirilebilir öğeler seçebileceğiniz katalogda güncellenmiş görünüm
+Size daha iyi ve sorunsuz bir deneyim sunmak için ekran yükleme süresinin kısaltılması ve hata düzeltmelerini içeren geliştirilmiş performans
+</tr-TR>
+<vi>
+Here’s what’s new with the Owner app:
+Updated look & feel in the catalog where you can choose customizable elements for your members app
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</vi>

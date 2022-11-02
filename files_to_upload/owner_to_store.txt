@@ -1,0 +1,65 @@
+<en-US>
+Here’s what’s new with the Spaces app:
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-US>
+<ar>
+Here’s what’s new with the Spaces app:
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</ar>
+<de-DE>
+Das gibt’s Neues bei der Spaces App:
+Verbesserte Leistung mit schnelleren Ladezeiten und Fehlerbehebungen, die dir ein besseres und reibungsloseres Erlebnis bieten
+
+</de-DE>
+<en-AU>
+Here’s what’s new with the Spaces app:
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-AU>
+<en-CA>
+Here’s what’s new with the Spaces app:
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-CA>
+<en-GB>
+Here’s what’s new with the Spaces app:
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-GB>
+<en-IN>
+Here’s what’s new with the Spaces app:
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</en-IN>
+<es-419>
+Estas son las novedades de la app Spaces:
+Rendimiento mejorado que incluye la reducción del tiempo de carga de la pantalla y la corrección de errores para ofrecerte una experiencia mejorada y más fluida
+</es-419>
+<es-ES>
+Estas son las novedades de la app Spaces:
+Rendimiento mejorado que incluye la reducción del tiempo de carga de la pantalla y la corrección de errores para ofrecerte una experiencia mejorada y más fluida
+</es-ES>
+<fr-FR>
+Voici les nouveautés de l'appli Spaces :
+Des performances améliorées qui incluent un temps de chargement réduit et des corrections de bugs pour vous offrir une meilleure expérience encore plus fluide
+</fr-FR>
+<it-IT>
+Ecco le novità dell’app Spaces:
+Prestazioni migliorate con tempi di caricamento delle schermate ridotti e correzioni di problemi per un’esperienza migliore e più fluida
+</it-IT>
+<ja-JP>
+Spaces by Wix アプリに新機能が追加されました：
+・画面の読み込み時間の短縮やバグ修正など、アプリのパフォーマンスを改善。さらに快適でスムーズな操作をお楽しみいただけるようになりました。
+</ja-JP>
+<pl-PL>
+Nowości w aplikacji Spaces: 
+Poprawiona wydajność, która obejmuje skrócony czas ładowania ekranu i poprawki błędów, aby zapewnić lepsze i płynniejsze doświadczenie.
+</pl-PL>
+<pt-BR>
+Aqui estão as novidades do app Spaces:
+Desempenho aprimorado com tempo de carregamento de tela reduzidos e correções de bugs para uma experiência otimizada
+</pt-BR>
+<ru-RU>
+Here’s what’s new with the Spaces app:
+Improved performance that includes reduced screen loading time and bug fixes to give you a better and smoother experience
+</ru-RU>
+<tr-TR>
+İşte Spaces uygulamasındaki yenilikler:
+Size daha iyi ve sorunsuz bir deneyim sunmak için ekran yükleme süresinin kısaltılması ve hata düzeltmelerini içeren geliştirilmiş performans
+</tr-TR>
